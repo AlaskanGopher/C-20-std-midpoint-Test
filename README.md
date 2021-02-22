@@ -16,6 +16,6 @@ float x,y;
 auto sum = std::midpoint(x,y);
 ```
 
-*I don't exactly understand why this was added into C++20, since it seems like more includes, and more typing just to implement this feature. I would have a better understanding if std::midpoint took different parameters than integers, floating-points, or pointer values, since all of those are easy to implement with a small amount of math. I would also have a better understanding if std::midpoint took more than 2 parameters, but it doesn't.
+I don't exactly understand why this was added into C++20, since it seems like more includes, and more typing just to implement this feature. I would have a better understanding if std::midpoint took different parameters than integers, floating-points, or pointer values, since all of those are easy to implement with a small amount of math. I would also have a better understanding if std::midpoint took more than 2 parameters, but it doesn't.
 
-*In the end, it is a nice feature if you want your code more readable and increase readability of extra long equations. Otherwise, I will not probably be using this feature and sticking to the simple math equation. 
+In the end, it is a nice feature if you want your code more readable and increase readability of extra long equations. Otherwise, I will not probably be using this feature and sticking to the simple math equation. 
